@@ -1,0 +1,6 @@
+name: FancyCrafting
+version: @version@
+main: com.daxton.fancycrafting.FancyCrafting
+api-version: 1.16
+prefix: FancyCrafting
+authors: [ s99889989 ]
